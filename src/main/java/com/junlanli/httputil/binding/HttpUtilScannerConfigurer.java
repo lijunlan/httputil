@@ -27,8 +27,8 @@ import java.util.Map;
 /**
  * Copyright (C) 2015 - 2017 JUNLAN LI All Rights Reserved.
  *
- * @Author: lijunlan888@gmail.com
- * @Date: 2017-01-16
+ * @author lijunlan888@gmail.com
+ *  2017-01-16
  */
 public class HttpUtilScannerConfigurer implements BeanDefinitionRegistryPostProcessor, InitializingBean, ApplicationContextAware, BeanNameAware {
 
